@@ -1,4 +1,4 @@
 # HackerRankPythonSolutions
 HackerRank Python Solutions(Python3)
-HackerRank Link below:
+HackerRank Link:
 https://www.hackerrank.com/domains/python
