@@ -1,0 +1,9 @@
+if __name__ == '__main__':
+    n = int(input())
+    number =0
+    basamak = 0
+    for i in range(n+1):
+        if(i!=0):
+            
+            print(i, sep='',end='')
+    #print(number)
